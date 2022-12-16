@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?affiliate=527914&vendor=hwtonic&tid=organic"
+status = 301
+force = true
+
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301
+force = true
