@@ -8,3 +8,9 @@ from = "/index.html"
 to = "/"
 status = 301
 force = true
+
+[[redirects]]
+from = "/?trk=public_post-text"
+to = "/"
+status = 301
+force = true
